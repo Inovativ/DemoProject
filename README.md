@@ -1,4 +1,4 @@
-# Git (and Github) getting started guide
+# Git (and Github) getting started guide (that is not finished)
 
 this guide walks trough the basic steps to start with source control. More specifically using git.
 TFS, subversion, etc are concepts are very similar but one important note has to be made;
